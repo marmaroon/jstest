@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {
+            "name": "Nikita Tikhonov",
+            "department": "frontend"
+        },
+        {
+            "name": "Nikita Negodov",
+            "department": "frontend"
+        },
+        {
+            "name": "Aliya Kuramshina",
+            "department": "backend"
+        }
+    ]
+}
